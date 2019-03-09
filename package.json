@@ -1,7 +1,7 @@
 {
   "name": "json-request-filter",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.3",
+  "description": "This library filters objects (json and arrays).",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -13,8 +13,8 @@
     "type": "git",
     "url": "git+https://github.com/lcaresia/json-request-filter.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["json", "filter", "request"],
+  "author": "Lucas Caresia",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lcaresia/json-request-filter/issues"
